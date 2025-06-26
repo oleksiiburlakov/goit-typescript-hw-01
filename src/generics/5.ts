@@ -10,3 +10,4 @@ export enum UserRole {
       [UserRole.guest]: 'Guest User',
     };
     
+    export {}

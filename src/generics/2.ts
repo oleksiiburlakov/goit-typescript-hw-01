@@ -14,3 +14,4 @@ type AllType = {
       }
     }
     
+    export {}

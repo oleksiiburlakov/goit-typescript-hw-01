@@ -20,3 +20,4 @@ type User = {
       password: 'password123' 
     });
     
+    export {}

@@ -24,4 +24,3 @@ const mango: User = {
         email: 'john@example.com'
     };
     
-    export {}

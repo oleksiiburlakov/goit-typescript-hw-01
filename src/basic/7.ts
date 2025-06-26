@@ -27,4 +27,3 @@ const page1: Page = {
       status: 'close',
     }
     
-    export {}

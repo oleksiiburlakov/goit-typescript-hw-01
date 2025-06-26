@@ -10,4 +10,3 @@
       throw new Error('Error');
     }
     
-    export {}

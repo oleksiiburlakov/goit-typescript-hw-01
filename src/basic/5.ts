@@ -16,4 +16,3 @@ enum DayOfWeek {
         return true;
     }
     
-    export{}
